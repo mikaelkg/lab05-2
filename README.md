@@ -1,3 +1,4 @@
+[![Build Status](https://travis-ci.org/markelovabmstu/lab05.svg?branch=master)](https://travis-ci.org/markelovabmstu/lab05)
 Создан репозитарий для проекта lab03.
 Созданы под-директории examples, include, sources.
 Созданы файлы:
